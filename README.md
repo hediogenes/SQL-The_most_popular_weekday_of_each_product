@@ -1,4 +1,4 @@
-# SQL-The_most_popular_weekday_of_each_product
+# The_most_popular_weekday_of_each_product
 
 Имеется 2 датасета:
 - olist_orders_dataset.csv —  таблица заказов
